@@ -6,6 +6,9 @@
 
 ### Robots
 
+https://github.com/RobotLocomotion/drake
+Model-based design and verification for robotics. https://drake.mit.edu/
+
 https://github.com/nasa/trick
 Trick Simulation Environment. Trick provides a common set of simulation capabilities and utilities to build simulations automatically.
 
@@ -166,6 +169,9 @@ Library for implementing OpenGL accelerated Qt5 C++ UI components.
 
 ### Scene Graph
 
+https://github.com/bergstr11/three.cpp
+yet another C++ port of three.js, based on r86+
+
 https://github.com/vahlers/scg3
 An extensible OpenGL 3 / C++11 scene graph library for teaching computer graphics along the programmable pipeline.
 
@@ -203,6 +209,12 @@ An easy to use cross-platform c++ GUI for SFML
 <!--- ###################################################################### -->
 
 ### Moteur 3D
+
+https://github.com/CRYTEK/CRYENGINE
+CRYENGINE is a powerful real-time game development platform created by Crytek.
+
+https://github.com/gameplay3d/GamePlay
+Open-source, cross-platform, C++ game engine for creating 2D/3D games. http://www.gameplay3d.io
 
 https://github.com/polymonster/pmtech
 Lightweight, multi-platform, data-oriented game engine.
@@ -570,6 +582,14 @@ Graph Theory IDE
 https://github.com/frewsxcv/graphosaurus
 3D graph viewer powered by WebGL
 
+https://github.com/magnificus/Procedural-Cities
+master thesis. This project aims to provide a framework and a solid
+implementation of different techniques for generating complete seamless
+procedural cities with interiors for all buildings.
+
+https://github.com/loverto/infinitown
+Generation villes three.js
+
 ## SpreadSheet
 
 https://github.com/rohitsinha54/Spreadsheet-Calculator
@@ -734,13 +754,16 @@ Change C++ code at runtime
 
 <!--- ###################################################################### -->
 
-#### Log Trace
+#### Log Trace / Profiler
 
 https://github.com/gabime/spdlog
 Fast C++ logging library.
 
 https://github.com/netromdk/tracepp
 C++17 tracing library for debugging with ease.
+
+https://bitbucket.org/wolfpld/tracy/src/master/
+C++ frame profiler
 
 <!--- ###################################################################### -->
 
@@ -915,6 +938,11 @@ PGF is a TeX macro package for generating graphics.
 https://github.com/JuliaTeX/TikzPictures.jl
 This library allows one to create PGF/TikZ pictures and save in various formats.
 
+## Scripts / Interpreter
+
+https://github.com/jnz/q3vm
+Q3VM - Embeddable bytecode virtual machine/interpreter for C-language input
+
 <!--- ###################################################################### -->
 
 ## Games
@@ -994,6 +1022,9 @@ The 2013 edition of the Source SDK
 https://github.com/Matherunner/hldoc
 Detailed documentation for Half-Life physics https://bit.ly/hlphysics
 
+https://github.com/jnz/Lynx
+3D Multiplayer First Person Shooter
+
 <!--- ###################################################################### -->
 
 ### Space
@@ -1009,11 +1040,15 @@ Multi-player spaceship bridge simulator. Captain your starship through adventure
 https://github.com/rafiemilio/Glitcher
 Glitcher, Game-Off Game Jam
 
+https://github.com/toppk/xevil
 https://github.com/lvella/xevil
 Adaptation for modern compilers and 64 bits machines of old XEvil game.
 
 https://github.com/stuntrally/stuntrally
 The main repository containing Stunt Rally sources and game data. A 3D racing game based on VDrift and OGRE with track editor.
+
+https://gitlab.com/pingus/pingus
+A puzzle game where the player has to guide a group of penguins to safety
 
 ### Race, Off road
 
