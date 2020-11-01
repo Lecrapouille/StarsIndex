@@ -153,6 +153,9 @@ File Dialog for ImGui
 https://github.com/CedricGuillemet/ImGuizmo
 Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 
+https://github.com/BalazsJako/ImGuiColorTextEdit
+Colorizing text editor for ImGui
+
 https://github.com/wjakob/nanogui
 Minimalistic GUI library for OpenGL
 
@@ -179,6 +182,9 @@ https://github.com/jeske/SimpleScene
 Simple 3D scene manager in C# and OpenTK / OpenGL
 
 https://github.com/lordmauve/wasabi-scenegraph
+
+https://github.com/MicBosi/VisualizationLibrary
+Visualization Library is a C++ middleware for high-performance 2D and 3D graphics applications based on OpenGL 1.x-4.x supporting Windows, Linux and Mac OS X. 
 
 <!--- ###################################################################### -->
 
@@ -306,6 +312,9 @@ A utility class which adds a way to include external files in a shader file.
 
 https://github.com/nlguillemot/ShaderSet
 GLSL shader live-reloading
+
+https://github.com/knightcrawler25/GLSL-PathTracer
+A GLSL Path Tracer 
 
 <!--- ###################################################################### -->
 
@@ -481,6 +490,24 @@ Dynamic AABB trees in C++ with support for periodic systems.
 
 ## GIS
 
+https://github.com/jcaraban/map
+Parallel Map Algebra 
+
+https://github.com/locationtech-labs/geopyspark
+GeoTrellis for PySpark 
+
+https://github.com/Fizzadar/opengl-graphing
+2D & 3D graph plots in OpenGL (for University) 
+
+https://github.com/pszufe/OpenStreetMapX.jl
+OpenStreetMap (*.osm) support for Julia 1.0 and up
+
+https://github.com/anvaka/city-roads
+Visualization of all roads within any city 
+
+https://github.com/wouterbeek/prolog_geo
+Prolog-based GIS library (wrapper around GEOS)
+
 https://github.com/mapbox/mapbox-gl-native
 Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 
@@ -525,6 +552,15 @@ OpenGL vector-based Android map (proof-of-concept)
 
 https://github.com/rastapasta/mapscii
 MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac and Linux, connect with PuTTY on Windows
+
+https://github.com/CanalTP/libosmpbfreader
+A simple C++ library to read OpenStreetMap binary files 
+
+https://github.com/jhawthorn/sdlmap
+A SDL + libcurl OpenStreetMap viewer
+
+https://github.com/easbar/fast_paths
+Fast shortest path calculations for Rust 
 
 ## Graph Theory
 
@@ -608,6 +644,19 @@ Markdown source for Michael Abrash's Graphics Programming Black Book
 
 https://github.com/ssloy/tinyrenderer
 A brief computer graphics / rendering course
+
+<!--- ###################################################################### -->
+
+## Plots/graph
+
+https://github.com/jrfonseca/gprof2dot
+Converts profiling output to a dot graph.
+
+https://github.com/penrose/penrose
+Create beautiful diagrams just by typing mathematical notation in plain text.
+
+https://github.com/zokrezyl/asciterm
+ArtSciTerm: terminal for artists, scientists and accidentally for engineers 
 
 <!--- ###################################################################### -->
 
@@ -725,12 +774,18 @@ https://github.com/serge-sans-paille/frozen
 https://github.com/seed93/vector
 A supercharged std::vector implementation (minus Allocator)
 
+https://github.com/tompollok/paco
+package container (paco) is a template header library for creating mixed containers that can carry any anything from primitives to lambda functions to classes or structs. Just put anything into the container and it never looses its type information. 
+
 <!--- ###################################################################### -->
 
 #### Debug
 
 https://github.com/bombela/backward-cpp
 A beautiful stack trace pretty printer for C++
+
+https://github.com/andreasfertig/cppinsights
+See your source code with the eyes of a compiler
 
 https://github.com/Plaristote/segvcatch
 library designed to convert a hardware exceptions, such as segmentation fault, or floating point errors, into a software language exceptions,
@@ -771,6 +826,12 @@ C++ frame profiler
 
 https://github.com/eliasdaler/LuaInPractice2SourceCode
 Using Lua with C++ in Practice part 2 source code
+
+https://github.com/samoli/MacPaint
+MacPaint is the drawing program application which interacts with the user, interprets mouse and keyboard requests, and decides what is to be drawn where. The high-level logic is written in Apple Pascal, packaged in a single file with 5,822 lines. There are an additional 3,583 lines of code in assembler language for the underlying Motorola 68000 … 
+
+https://github.com/amix/photoshop
+Photoshop 1.0 Source Code
 
 <!--- ###################################################################### -->
 
@@ -874,6 +935,49 @@ Derived from FreeForth by Christophe Lavarenne
 https://github.com/RogerLevy/afkit
 AllegroForthKit: A game programming framework built on Allegro 5.
 
+https://github.com/jhlagado/firth
+Firth: A Forth for the Z80 CPU
+
+https://github.com/phreda4/r3d4
+r3 programing language for 64 bits Windows/Linux/Mac/Rasberry Pi 4
+
+https://github.com/andrewtholt/minforth
+A Minimal Forth
+
+https://github.com/ekoeppen/CoreForth
+Forth for the ARM Cortex-M3 
+
+https://github.com/urlysses/1991
+A server-side web framework written in Forth. 
+
+https://github.com/uho/forth-notebooks
+Forth Literate Programming with IPython notebook 
+
+https://github.com/bradn123/literateforth
+Literate Programming in Forth
+
+https://github.com/wkoszek/cweb
+The CWEB System of Structured Documentation 
+
+https://github.com/ams-hackers/gbforth
+A Forth-based Game Boy development kit 
+
+https://github.com/codr7/forthy2
+a Forth (for you) too 
+
+https://github.com/HackerFoo/poprc
+A Compiler for the Popr Language
+
+<!--- ###################################################################### -->
+
+### Language theory
+
+https://github.com/wren-lang/wren
+The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language. 
+
+https://github.com/qtnc/swan
+Swan, small scripting language embeddable in C++ applications 
+
 <!--- ###################################################################### -->
 
 ### Reactive language
@@ -887,9 +991,21 @@ Reactive Web Programming
 https://github.com/manuel-serrano/hop
 Multitier JavaScript
 
+https://github.com/tgvaughan/scheme.forth.jl
+Scheme in FORTH in Julia. 
+
+https://github.com/tgvaughan/forth.jl
+Forth system in Julia 
+
 <!--- ###################################################################### -->
 
 ### Julia
+
+https://github.com/JuliaTeX/PGFPlots.jl
+This library uses the LaTeX package pgfplots to produce plots. 
+
+https://github.com/fonsp/Pluto.jl
+Simple reactive notebooks for Julia
 
 https://github.com/clopeau/Julia_Introduction
 Une introduction à Julia...
@@ -902,6 +1018,9 @@ OpenGL 3+ bindings for Julia
 
 https://github.com/abahm/Chess.jl
 Chess engine written in Julia
+
+https://github.com/ornicar/lila
+lichess.org: the forever free, adless and open source chess server
 
 https://github.com/JuliaComputing/SemiringAlgebra.jl
 Semiring Algebra
@@ -950,6 +1069,18 @@ Q3VM - Embeddable bytecode virtual machine/interpreter for C-language input
 <!--- ###################################################################### -->
 
 ### City Builders
+
+https://github.com/widelands/widelands
+Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. 
+
+https://github.com/OpenTTD/OpenTTD
+OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe 
+
+https://github.com/Miragecoder/Urbanization
+A Micropolis (Simcity classic) inspired city building game written in C# 
+
+https://github.com/maajor/OSMTrafficSim
+TrafficSim using Unity ECS 2019.3 
 
 http://www.andrewwillmott.com/talks/inside-glassbox
 https://github.com/federicodangelo/MultiAgentSimulation
@@ -1021,6 +1152,12 @@ The 2013 edition of the Source SDK
 
 https://github.com/Matherunner/hldoc
 Detailed documentation for Half-Life physics https://bit.ly/hlphysics
+
+https://github.com/HackerPoet/NonEuclidean
+A Non-Euclidean Rendering Engine for 3D scenes.
+
+https://github.com/HackerPoet/MarbleMarcher
+A Fractal Physics Game
 
 https://github.com/jnz/Lynx
 3D Multiplayer First Person Shooter
@@ -1140,6 +1277,13 @@ FAIR's research platform for object detection research, implementing popular alg
 
 <!--- ###################################################################### -->
 
+## Network
+
+https://github.com/TinkoffCreditSystems/Ogam3
+Data transfer protocol based on a lightweight implementation of Scheme programming language written on C# for .NET enterprise development. 
+
+<!--- ###################################################################### -->
+
 ## Others
 
 ### INRIA, NASA
@@ -1171,6 +1315,15 @@ Use Emacs as a C/C++ IDE
 https://github.com/cmaughan/zep
 Zep - An embeddable editor, with optional support for using vim keystrokes.
 
+https://github.com/BalazsJako/ImGuiColorTextEdit
+Colorizing text editor for ImGui
+
+https://github.com/drankinatty/gtkwrite
+GtkWrite Text Editor written in C and Gtk+2.
+
+https://github.com/GNOME/gnome-builder
+Builder aims to be an IDE for writing GNOME-based software. We believe this focus will help us build something great for our community.
+
 ### OS
 
 https://github.com/danistefanovic/build-your-own-x
@@ -1201,6 +1354,9 @@ Run GUI applications and desktops in docker. Focus on security.
 
 https://github.com/rtyley/bfg-repo-cleaner
 Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+
+https://github.com/pvigier/gitamine
+A graphical user interface for git
 
 ### Ethernet
 
