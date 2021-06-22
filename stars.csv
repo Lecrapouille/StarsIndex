@@ -1,0 +1,502 @@
+https://github.com/abodelot/wallbreaker,Arkanoid/Breakout clone written in C++ and SFML
+https://github.com/abodelot/sfml-widgets,A simple GUI module for SFML
+https://github.com/HexMsh/gmds,GMDS is a meshing library for CAE purposes mainly
+https://github.com/igorakim/pnet-simulator,Petri Net Simulator program
+https://github.com/pszufe/OpenStreetMapXPlot.jl,Plotting functionality for the OpenStreetMapX.jl (Supports PyPlot.jl and Plots.jl with GR backend) 
+https://github.com/pszufe/OpenStreetMapX.jl,OpenStreetMap (*.osm) support for Julia 1.0 and up
+https://github.com/Ejay-3D/Marlin-Biqu,Custom Marlin Firmware For Biqu B1 3D Printer
+https://github.com/bigtreetech/BIQU-B1,
+https://github.com/TensorBFS/TropicalGEMM.jl,Fast Tropical matrix multiplication
+https://github.com/johnBuffer/ClothSimulation,
+https://github.com/johnBuffer/ZombieV,Top down Zombie shooter game in C++ using SFML as graphics library
+https://github.com/TankOs/SFGUI,Simple and Fast Graphical User Interface
+https://github.com/Kojirion/blackWolf,A chess gui to play on FICS
+https://github.com/abangfarhan/graph-sfml,Graph + SFML
+https://github.com/weirdNox/Generic-Grafcet,"Generic Grafcet implementation, in C, using metaprogramming."
+https://github.com/osmandapp/OsmAnd,OsmAnd
+https://github.com/cppinclude/cppinclude,Tool for analyzing includes in C++
+https://github.com/include-what-you-use/include-what-you-use,A tool for use with clang to analyze #includes in C and C++ source files
+https://github.com/libuv/libuv,Cross-platform asynchronous I/O
+https://github.com/criptych/physfs,UNOFFICIAL Git mirror of PhysicsFS Mercurial repository. Please do not submit issues or pull requests here! Official website:
+https://github.com/kahowell/physfs-cpp,PhysFS++ is a C++ wrapper for the PhysicsFS library.
+https://github.com/guillaumechereau/goxel,Goxel: Free and Open Source 3D Voxel Editor 
+https://github.com/Arxcis/imt2531-assignment2,Second project in graphics programming - An OpenGL 3D Object viewer/editor
+https://github.com/rttrorg/rttr,C++ Reflection Library
+https://github.com/repology/libversion,Advanced version string comparison library
+https://github.com/AMDmi3/glosm,3D OpenStreetMap renderer
+https://github.com/libSDL2pp/libSDL2pp,C++11 bindings/wrapper for SDL2
+https://github.com/sshuair/awesome-gis,"😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more."
+https://github.com/youssefmyh/C-SDL-Draw-Isometric-Map,C++ SDL Draw Isometric Map
+https://github.com/alandefreitas/matplotplusplus,Matplot++: A C++ Graphics Library for Data Visualization 📊🗾
+https://github.com/pr4296/US-Map,"A C++ school project that uses publicly available elevation, city, and connecting distances data to draw and determine the shortest path between any two user-provided cities."
+https://github.com/gabriellesantosleandro/Process-Mining-Petri-Net,Jupyter Notebook usando a biblioteca PM4PY ensinando sobre os conceitos básicos sobre Rede de Petri.
+https://github.com/vldtecno/PTN-Engine,A Petri net based automation engine.
+https://github.com/larics/Petri.Net,A tool for symulating discrete-event systems using Petri nets.
+https://github.com/ghaerr/agg-2.6,AGG Anti-Grain Geometry Library
+https://github.com/ImageMagick/ImageMagick,🧙‍♂️ ImageMagick 7
+https://github.com/GarethCalvert/PetriNetCode,C++ Code for Petri net simulations
+https://github.com/nassarhuda/juliacon2020files,JuliaCon 2020 notebooks for the tutorial: Make your Julia code faster and compatible with non-Julia code
+https://github.com/nassarhuda/JuliaTutorials,
+https://github.com/the-moisrex/webpp,C++ web framework
+https://github.com/Unity-Technologies/articulations-robot-demo,
+https://github.com/adham-elarabawy/open-quadruped,An open-source 3D-printed quadrupedal robot. Intuitive gait generation through 12-DOF Bezier Curves. Full 6-axis body pose manipulation. Custom 3DOF Leg Inverse Kinematics Model accounting for offsets.
+https://github.com/ModiaSim/Modia3D.jl,Modeling and Simulation of 3D systems
+https://github.com/wjwwood/serial,"Cross-platform, Serial Port library written in C++"
+https://github.com/nasa/Coordinate-systems-class-library,
+https://github.com/nasa/fprime,F' - A flight software and embedded systems framework
+https://github.com/goberoi/faceit,"A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos."
+https://github.com/serge-rgb/milton,An infinite-canvas paint program
+https://github.com/symengine/symengine,"SymEngine is a fast symbolic manipulation library, written in C++"
+https://github.com/symengine/SymEngine.jl,Julia wrappers of SymEngine
+https://github.com/philipbecker/cpp-art,STL-compliant map and set container based on a C++11 Adaptive Radix Tree implementation.
+https://github.com/SerenityOS/serenity,The Serenity Operating System 🐞
+https://github.com/shinglyu/3D_roulette,
+https://github.com/enable3d/enable3d,🕹️ Standalone 3D Framework / Physics for three.js (using ammo.js) / 3D extension for Phaser 3
+https://github.com/RippeR37/GLUL,OpenGL Utility Library.
+https://github.com/ilmola/generator,A procedural geometry generation library for C++11
+https://github.com/astraxel/Vanille,Implémentation de réseaux de Kahn pour le cours de Systèmes
+https://github.com/billyquith/GWork,Skinnable GUI with useful widget collection. Fork of GWEN.
+https://github.com/nholthaus/units,"a compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies."
+https://github.com/solodon4/Mach7,Functional programming style pattern-matching library for C++
+https://github.com/ntcaston/AngryGL,
+https://github.com/blurrypiano/littleVulkanEngine,Code repo for video tutorial series teaching Vulkan and computer graphics
+https://github.com/arranstewart/gprolog_wrapper,c++ wrappers around the gprolog c API to improve type safety. WIP
+https://github.com/logicmoo/wam_common_lisp,"Allow Lisp programs to stop implementing an ad-hoc, informally-specified, bug-ridden, slow implementation of less than half of ISO-Prolog."
+https://github.com/hmazhar/moderngl_camera,A quaternion based camera for modern OpenGL
+https://github.com/gareth-cross/quat,"Templated, unit-tested quaternion class with minimal dependencies."
+https://github.com/Matematicas1UA/plman,Pacman-like game where the user controls the pacman with Prolog code
+https://github.com/SWI-PrologTeamLudumDare32/LudumDare,Our Ludum Dare entry
+https://github.com/skywind3000/kcp,:zap: KCP - A Fast and Reliable ARQ Protocol
+https://github.com/gonnavis/3d-game-shaders-for-beginners,"💥This fork is THREE.js version.💥 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game."
+https://github.com/xtensor-stack/xtensor,C++ tensors with broadcasting and lazy computing
+https://github.com/kpeeters/tree.hh,An STL-like C++ header-only tree library
+https://github.com/Unity-Technologies/UnityCsReference,Unity C# reference source code.
+https://github.com/CoderJet/ThinMatrix-OpenGL-Tutorial,C++ version of ThinMatrix's OpenGL tutorial series.
+https://github.com/Headturna/OpenGL-C---Tutorials,
+https://github.com/Unity-Technologies/ShaderGraph,Unity ShaderGraph project
+https://github.com/Unity-Technologies/HLSLcc,DirectX shader bytecode cross compiler
+https://github.com/Nicolas-Constanty/Dnai.Editor,Dnai Editor - Visual Scripting (Node Editor)
+https://github.com/SunnyValleyStudio/Simple-Traffic-System-Unity-2020,How to create a simple traffic system for a city builder type of game
+https://github.com/miguelleitao/btosg,A thin abstraction layer to integrate Bullet and OpenSceneGraph
+https://github.com/udexon/MI4,MI4: Metaprogramming in Forth — from HTML to Cryptocurrencies and beyond ....
+https://github.com/Jay2645/Unreal-Polygonal-Map-Gen,An Unreal Engine 4 implementation of the Polygonal Map Generator for generating islands found at http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
+https://github.com/pvigier/gitamine,A graphical user interface for git
+https://github.com/tompollok/paco,package container (paco)  is a template header library for creating mixed containers that can carry any anything from primitives to lambda functions to classes or structs. Just put anything into the container and it never looses its type information.
+https://github.com/BalazsJako/ImGuiColorTextEdit,Colorizing text editor for ImGui
+https://github.com/jhlagado/firth,Firth: A Forth for the Z80 CPU
+https://github.com/CanalTP/libosmpbfreader,A simple C++ library to read OpenStreetMap binary files
+https://github.com/easbar/fast_paths,Fast shortest path calculations for Rust 
+https://github.com/maajor/OSMTrafficSim,TrafficSim using Unity ECS 2019.3
+https://github.com/epyon/nova-ecs,Simplified version of the Nova ECS
+https://github.com/jhawthorn/sdlmap,:earth_africa: A SDL + libcurl OpenStreetMap viewer
+https://github.com/bernd-ulmann/lang5,Stack oriented language with many APL-like features.
+https://github.com/Mars073/groupeA05,"A character evolves in a world, where he can move and meets monsters randomly on the ""map"". "
+https://github.com/OpenTTD/OpenTTD,OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
+https://github.com/wouterbeek/prolog_geo,Prolog-based GIS library (wrapper around GEOS and Proj).
+https://github.com/phreda4/r3d4,r3 programing language for 64 bits Windows/Linux/Mac/Rasberry Pi 4
+https://github.com/fonsp/Pluto.jl,🎈 Simple reactive notebooks for Julia
+https://github.com/Miragecoder/Urbanization,A Micropolis (Simcity classic) inspired city building game written in C#
+https://github.com/Rkozik/kowloon-walled-city,"Vanilla JavaScript, HTML, and CSS game."
+https://github.com/anvaka/city-roads,Visualization of all roads within any city
+https://github.com/Fizzadar/opengl-graphing,2D & 3D graph plots in OpenGL (for University)
+https://github.com/ornicar/lila,"♞ lichess.org: the forever free, adless and open source chess server ♞"
+https://github.com/JuliaTeX/PGFPlots.jl,This library uses the LaTeX package pgfplots to produce plots.
+https://github.com/jakob/TableTool,A simple CSV editor for the Mac
+https://github.com/widelands/widelands,"Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it."
+https://github.com/andrewtholt/minforth,A Minimal Forth
+https://github.com/Enlightenment/enlightenment,Mirror of https://git.enlightenment.org/core/enlightenment.git
+https://github.com/ekoeppen/CoreForth,Forth for the ARM Cortex-M3
+https://github.com/samoli/MacPaint,"MacPaint is the drawing program application which interacts with the user, interprets mouse and keyboard requests, and decides what is to be drawn where. The high-level logic is written in Apple Pascal, packaged in a single file with 5,822 lines. There are an additional 3,583 lines of code in assembler language for the underlying Motorola 68000 microprocessor, which implement routines needing high performance and some interfaces to the operating system."
+https://github.com/amix/photoshop,Photoshop 1.0 Source Code
+https://github.com/drankinatty/gtkwrite,GtkWrite Text Editor written in C and Gtk+2.
+https://github.com/PeterForth/LEARNING-FORTH2020,Example files to practice  and use with Forth2020.exe 
+https://github.com/PeterForth/ForthWin,
+https://github.com/PeterForth/ForthWin-Download,A modern Forth 32bit for Windows Linux 
+https://github.com/ForthWin/Forth2020UsersGroup,This space is dedicated to the members of the Forth Win Users Group in order to share their works and experiences with ForthWin.
+https://github.com/LongJohnCoder/scheme.forth.jl,Scheme in FORTH in Julia.
+https://github.com/tgvaughan/forth.jl,Forth system in Julia
+https://github.com/penrose/penrose,Create beautiful diagrams just by typing mathematical notation in plain text.
+https://github.com/zokrezyl/asciterm,"ArtSciTerm: terminal for artists, scientists and accidentally for engineers"
+https://github.com/GNOME/gnome-builder,Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-builder
+https://github.com/HackerPoet/MarbleMarcher,A Fractal Physics Game
+https://github.com/HackerPoet/NonEuclidean,A Non-Euclidean Rendering Engine for 3D scenes.
+https://github.com/knightcrawler25/GLSL-PathTracer,A GLSL Path Tracer
+https://github.com/wren-lang/wren,"The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language."
+https://github.com/qtnc/swan,"Swan, small scripting language embeddable in C++ applications"
+https://github.com/HackerFoo/poprc,A Compiler for the Popr Language
+https://github.com/jcaraban/map,Parallel Map Algebra
+https://github.com/locationtech-labs/geopyspark,GeoTrellis for PySpark
+https://github.com/hardpixel/gedit-strip-whitespace,Gedit 3 plugin to strip trailing whitespace on file save.
+https://github.com/uho/forth-notebooks,Forth Literate Programming with IPython notebook
+https://github.com/TinkoffCreditSystems/Ogam3,Data transfer protocol based on a lightweight implementation of Scheme programming language written on C# for .NET enterprise development.
+https://github.com/atilaneves/premock,Mock C functions using the preprocessor
+https://github.com/bradn123/literateforth,Literate Programming in Forth
+https://github.com/wkoszek/ncurses_guide,"NCurses Examples from the book ""Programmer's Guide to NCurses"" with improvements and fixes"
+https://github.com/wkoszek/cweb,The CWEB System of Structured Documentation
+https://github.com/ams-hackers/gbforth,👾 A Forth-based Game Boy development kit
+https://github.com/MicBosi/VisualizationLibrary,"Visualization Library is a C++ middleware for high-performance 2D and 3D graphics applications based on OpenGL 1.x-4.x supporting Windows, Linux and Mac OS X."
+https://github.com/codr7/forthy2,a Forth (for you) too
+https://github.com/EmuxEvans/gprof2dot,Converts profiling output to a dot graph.
+https://github.com/Erdk/introtoprofiling,"Intorduction to profiling C\C++ applications. Description of different tools, comparison of capabilities and examples in code."
+https://github.com/urlysses/1991,A server-side web framework written in Forth.
+https://github.com/jrfondren/forth-servers,A series of increasingly complex servers in Forth
+https://github.com/ForthWin/ForthGTK-Glade,
+https://github.com/kamaljitsingh76/TclForth,Multi-platform desktop Forth based on Tcl/Tk
+https://github.com/shepheb/forthboy,Gameboy emulator in (G)Forth
+https://github.com/acgetchell/CDT-plusplus,Causal Dynamical Triangulations in C++ using CGAL
+https://github.com/ReClassNET/ReClass.NET,More than a ReClass port to the .NET platform.
+https://github.com/isocpp/CppCoreGuidelines,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++"
+https://github.com/BjarneStroustrup/Programming-_Principles_and_Practice_Using_Cpp,This repository houses the header files available from http://www.stroustrup.com/Programming/PPP2code for use while learning C++ from Bjarne Stroustrup's book 'Programming:  Principles and Practice Using C++ (Second Edition).'  
+https://github.com/invenia/PkgTemplates.jl,"Create new Julia packages, the easy way"
+https://github.com/YingboMa/SafeTestsets.jl,
+https://github.com/phreda4/r4,:r4 concatenative programming language with ideas from ColorForth.
+https://github.com/ers35/colorforth,
+https://github.com/jdupuy/dj_algebra,Lightweight linear algebra library
+https://github.com/jdupuy/opengl-framework,Cross-platform OpenGL demos
+https://github.com/adamwalker/dynamic-graph,Draw and update graphs in real time with OpenGL
+https://github.com/irdvo/ffl,A general purpose Forth library
+https://github.com/rohitvarkey/Compose3D.jl,A library to try and extend Compose.jl to 3D.
+https://github.com/pranavtbhat/Graft.jl,Graph Toolkit for Julia
+https://github.com/abhijithanilkumar/NetworkViz.jl,Julia Interface to visualize Graphs.
+https://github.com/rohitvarkey/ThreeJS.jl,Julia interface to WebGL using Three-js custom elements and Patchwork.jl
+https://github.com/forthy42/gforth,Gforth mirror on GitHub (original is on Savannah)
+https://github.com/AmokHuginnsson/replxx,"A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and is BSD licensed."
+https://github.com/ssloy/tinyraytracer,A brief computer graphics / rendering course
+https://github.com/ssloy/tinyraycaster,486 lines of C++: old-school FPS in a weekend
+https://github.com/ssloy/tinykaboom,A brief computer graphics / rendering course
+https://github.com/kujukuju/Tiled-Jumpario,Tiled fork for jumpario which removes extra functionality and adds a few extra things
+https://github.com/andreasfertig/cppinsights,C++ Insights - See your source code with the eyes of a compiler
+https://github.com/copperspice/copperspice,Cross platform C++ libraries
+https://github.com/CppCon/CppCon2019, Slides and other materials from CppCon 2019
+https://github.com/Framstag/libosmscout,"Libosmscout is a C++ library for offline map rendering, routing and location lookup based on OpenStreetMap data"
+https://github.com/skypjack/entt,Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+https://github.com/nlohmann/json,JSON for Modern C++
+https://github.com/cameron314/readerwriterqueue,"A fast single-producer, single-consumer lock-free queue for C++"
+https://github.com/NilsHolger/cppplaydesignpatterns,simple modern c++ design patterns
+https://github.com/MarcoCaballero/klondike-patterns,"to comply with the principles of clean code and solid and using, as necessary, the Gamma design patterns"
+https://github.com/OpenHDZ/GPS-GPRS-Arduino-Tracker,Notre projet de tracker GPS/GPRS sur platforme Arduino
+https://github.com/RigsOfRods/rigs-of-rods,Main development repository for Rigs of Rods soft-body physics simulator
+https://github.com/Qihoo360/evpp,A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.
+https://github.com/cizum/sweeper-madness,Almost curling game
+https://github.com/godlikepanos/anki-3d-engine,"AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more"
+https://github.com/steven-varga/h5cpp,C++17 templates between [stl::vector | armadillo | eigen3 | ublas | blitz++] and HDF5 datasets
+https://github.com/jegx/geexlab,GeeXLab code samples and demos
+https://github.com/nothings/stb,stb single-file public domain libraries for C/C++
+https://github.com/Pingus/pingus,Pingus moved to https://gitlab.com/pingus/pingus
+https://github.com/magnificus/Procedural-Cities,master thesis
+https://github.com/gameplay3d/gameplay,"Open-source, cross-platform, C++ game engine for creating 2D/3D games."
+https://github.com/RobotLocomotion/drake,Model-based design and verification for robotics.
+https://github.com/toppk/xevil,"xevil - yes, that one.  go elsewhere for win32"
+https://github.com/benjamin-fukdawurld/FD3D,A set of tools to manipulate 3D data
+https://github.com/jnz/Lynx,3D Multiplayer First Person Shooter
+https://github.com/jnz/q3vm,Q3VM - Single file (vm.c) bytecode virtual machine/interpreter for C-language input
+https://github.com/bergstr11/three.cpp,"yet another C++ port of three.js, based on r86+"
+https://github.com/loverto/infinitown,infinitown
+https://github.com/tntmeijs/GLSL-Shader-Includes,A utility class which adds a way to include external files in a shader file.
+https://github.com/nlguillemot/ShaderSet,GLSL shader live-reloading
+https://github.com/panda3d/panda3d,"Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU"
+https://github.com/lordmauve/wasabi-scenegraph,
+https://github.com/cocos2d/cocos2d-x,"Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world."
+https://github.com/seed93/vector,:loop: A supercharged std::vector implementation (minus Allocator)
+https://github.com/cs01/gdbgui,"Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser."
+https://github.com/Unvanquished/Unvanquished,An FPS/RTS hybrid game powered by the Daemon engine (a combination of ioq3 and XreaL)
+https://github.com/jdduke/three_cpp,A port of three.js to C++
+https://github.com/CelestiaProject/Celestia,Real-time 3D visualization of space.
+https://github.com/jeske/SimpleScene,Simple 3D scene manager in C# and OpenTK / OpenGL
+https://github.com/erincatto/box2d,Box2D is a 2D physics engine for games
+https://github.com/bkaradzic/bgfx,"Cross-platform, graphics API agnostic, ""Bring Your Own Engine/Framework"" style rendering library."
+https://github.com/KhronosGroup/glTF,glTF – Runtime 3D Asset Delivery
+https://github.com/gfxfundamentals/threejsfundamentals,threejsfundamentals.org
+https://github.com/CedricGuillemet/ImGuizmo,Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
+https://github.com/vahlers/scg3,An extensible OpenGL 3 / C++11 scene graph library for teaching computer graphics along the programmable pipeline.
+https://github.com/mrdoob/three.js,JavaScript 3D Library.
+https://github.com/pvigier/Simulopolis,A sandbox city building game with pcg and ai
+https://github.com/kantoniak/konstruisto,OpenGL-backed city builder game for Windows and Linux.
+https://github.com/CytopiaTeam/Cytopia,:deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
+https://github.com/karimnaaji/vectiler,"A vector tile, terrain and city 3d model builder and exporter"
+https://github.com/JuliaPlots/StatsPlots.jl,Statistical plotting recipes for Plots.jl
+https://github.com/uber/h3,Hexagonal hierarchical geospatial indexing system
+https://github.com/korsbo/Latexify.jl,"Convert julia objects to LaTeX equations, arrays or other environments. "
+https://github.com/alacritty/alacritty,"A cross-platform, OpenGL terminal emulator."
+https://github.com/JuliaRobotics/RigidBodyDynamics.jl,Julia implementation of various rigid body dynamics and kinematics algorithms
+https://github.com/JuliaTeX/TikzPictures.jl,Creating PGF/TikZ pictures and saving them in various formats
+https://github.com/pgf-tikz/pgf,A Portable Graphic Format for TeX
+https://github.com/JuliaTeX/TikzGraphs.jl,This library generates graph layouts using the TikZ graph layout package.
+https://github.com/maxbennedich/vectormap,OpenGL vector-based Android map (proof-of-concept)
+https://github.com/JuliaGraphs/LightGraphs.jl,An optimized graphs package for the Julia programming language
+https://github.com/federicodangelo/MultiAgentSimulation,Simple implementation of the technology behind SimCity 5 (GlassBox)
+https://github.com/SVG-Edit/svgedit,Powerful SVG-Editor for your browser
+https://github.com/alexlenail/NN-SVG,Publication-ready NN-architecture schematics. 
+https://github.com/zettdaymond/opulus,Simple Petri net editor and simulator
+https://github.com/JuliaInterop/Cxx.jl,The Julia C++ Interface
+https://github.com/netromdk/tracepp,C++17 tracing library for debugging with ease.
+https://github.com/BarakOshri/ConvChess,Predicting Moves in Chess Using Convolutional Neural Networks
+https://github.com/Zeta36/chess-alpha-zero,Chess reinforcement learning by AlphaGo Zero methods.
+https://github.com/MarkZH/Genetic_Chess,An amateur attempt at breeding a chess-playing AI.
+https://github.com/shi-yan/Pillow,a 3d modeler
+https://github.com/nasa/trick,Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.
+https://github.com/nasa/openmct,A web based mission control framework. 
+https://github.com/serge-sans-paille/frozen,"a header-only, constexpr alternative to gperf for C++14 users"
+https://github.com/serge-sans-paille/pythran,Ahead of Time compiler for numeric kernels
+https://github.com/ValveSoftware/halflife,Half-Life 1 engine based games
+https://github.com/Matherunner/hldoc,Half-Life game physics described in excruciating detail!
+https://github.com/idmillington/cyclone-physics,"The Physics engine that accompanies the book ""Game Physics Engine Design"""
+https://github.com/lohedges/aabbcc,Dynamic AABB trees in C++ with support for periodic systems.
+https://github.com/baldurk/renderdoc,RenderDoc is a stand-alone graphics debugging tool.
+https://github.com/mamontov-cpp/saddy-graphics-engine-2d,"Saddy is an open-source crossplatform 2D graphic engine, based on OpenGL, which can be used for creating 2D games. like platformers or RPGs."
+https://github.com/jtberglund/GLFont,"Text-rendering library written in C++ for OpenGL 3.3, using FreeType 2."
+https://github.com/benhj/glfreetype,An extremely simple OpenGL C++ FreeType library
+https://github.com/Gforcex/OpenGraphic,Graphic Engine & Game Engine lists
+https://github.com/AmanSachan1/Meteoros,Real-time Cloudscape Rendering in Vulkan based on the implementation of clouds in the Decima Engine.
+https://github.com/solvespace/solvespace,Parametric 2d/3d CAD
+https://github.com/fegennari/3DWorld,3D Procedural Game Engine Using OpenGL 
+https://github.com/openalea/plantgl,"An open-source graphic toolkit for the creation, simulation and analysis of 3D virtual plants."
+https://github.com/PavelDoGreat/WebGL-Fluid-Simulation,Play with fluids in your browser (works even on mobile)
+https://github.com/MultiplayerBook/MultiplayerBook,
+https://github.com/lettier/3d-game-shaders-for-beginners,"🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game."
+https://github.com/kripken/BananaBread,BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML
+https://github.com/thatshaman/CharrioKart,that_shaman's Super Charrio Kart
+https://github.com/Chmood/cannon-racer,An off-road 3D race game with ThreeJS and Cannon.js
+https://github.com/cinder/Cinder,"Cinder is a community-developed, free and open source library for professional-quality creative coding in C++."
+https://github.com/tkem/fsmlite,Lightweight finite state machine framework for C++11
+https://github.com/digint/tinyfsm,A simple C++ finite state machine library
+https://github.com/rtyley/bfg-repo-cleaner,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala"
+https://github.com/cppit/jucipp,A lightweight & cross-platform IDE supporting the most recent C++ standards. This project has moved to https://gitlab.com/cppit/jucipp. 
+https://github.com/davisking/dlib,A toolkit for making real world machine learning and data analysis applications in C++
+https://github.com/rougier/open-heroes,"Some people that facilitate science, one way or the other"
+https://github.com/manuel-serrano/hiphop,Reactive Web Programming
+https://github.com/manuel-serrano/hop,Multitier JavaScript
+https://github.com/ksoderbl/thinmatrix-opengl-3d-game-tutorial-cpp-sdl2,"My implementation of ThinMatrix OpenGL 3D Game Tutorial, in C++ and SDL2."
+https://github.com/michaelh800/thinmatrix-game-engine,ThinMatrix OpenGL 3D Game Engine in C++
+https://github.com/sindresorhus/awesome,😎 Awesome lists about all kinds of interesting topics
+https://github.com/taskflow/taskflow,A General-purpose Parallel and Heterogeneous Task Programming System
+https://github.com/ziishaned/learn-regex,Learn regex the easy way
+https://github.com/ValveSoftware/source-sdk-2013,The 2013 edition of the Source SDK
+https://github.com/arximboldi/immer,Postmodern immutable and persistent data structures for C++ — value semantics at scale
+https://github.com/nothings/single_file_libs,List of single-file C/C++ libraries.
+https://github.com/clayrisser/docker-gtk,Run GTK GUI apps with docker
+https://github.com/mviereck/x11docker,Run GUI applications and desktops in docker. Focus on security.
+https://github.com/smcameron/space-nerds-in-space,Multi-player spaceship bridge simulator. Captain your starship through adventures with your friends.  See https://smcameron.github.io/space-nerds-in-space
+https://github.com/dan4thewin/FreeForth2,Derived from FreeForth by Christophe Lavarenne
+https://github.com/JakubVojvoda/design-patterns-cpp,C++ Design Patterns
+https://github.com/fletcherm/pf_gtk,Presenter First in the context of GTK+ and C
+https://github.com/javism/MVC-Example,MVC C++ Example
+https://github.com/polymonster/pmtech,"Lightweight, multi-platform, data-oriented game engine."
+https://github.com/jkotlinski/durexforth,Modern C64 Forth
+https://github.com/microsoft/vcpkg,"C++ Library Manager for Windows, Linux, and MacOS"
+https://github.com/kosua20/sr_graph,"A simple, one-file, header-only, C++ utility for graphs, curves and histograms."
+https://github.com/juj/MathGeoLib,A C++ library for linear algebra and geometry manipulation for computer graphics.
+https://github.com/juj/RectangleBinPack,Source code for performing 2d rectangular bin packing.
+https://github.com/gephi/graphstore,Fast in-memory graph structure
+https://github.com/giawa/opengl4csharp,OpenGL 4 Bindings (partially based on OpenTK) for C#
+https://github.com/stxxl/stxxl,STXXL: Standard Template Library for Extra Large Data Sets
+https://github.com/dpilger26/NumCpp,C++ implementation of the Python Numpy library
+https://github.com/mortennobel/SimpleRenderEngine,Small C++14 render engine
+https://github.com/a1studmuffin/SpaceshipGenerator,A Blender script to procedurally generate 3D spaceships
+https://github.com/giawa/opengl4tutorials,"Following in the style of NeHe, I'm doing some simple tutorials for the opengl4csharp library."
+https://github.com/atilaneves/cmake-ide,Use Emacs as a C/C++ IDE
+https://github.com/invor/simplestGraphRendering,"A very simple OpenGL renderer for road-networks. Mostly self-contained, but still needs GLFW and GLEW."
+https://github.com/invor/glowl,OpenGLObjectWrapperLibrary
+https://github.com/green-anger/GlobeViewer,View popular online maps in Orthographic projection
+https://github.com/tangrams/tangram-es,2D and 3D map renderer using OpenGL ES
+https://github.com/ZeroK-RTS/Zero-K,Open source RTS game running on the Spring engine
+https://github.com/gnunn1/tilix,A tiling terminal emulator for Linux using GTK+ 3
+https://github.com/xelatihy/yocto-gl,Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics
+https://github.com/pnavaro/machine_learning,Notes cours machine learning 
+https://github.com/kellydunn/go-art,an adaptive radix tree implementation in go
+https://github.com/giorgiomarcias/glfwm,GLFW Manager - C++ wrapper with multi-threading
+https://github.com/JoeyDeVries/LearnOpenGL,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
+https://github.com/martinmoene/variant-lite,"variant lite - A C++17-like variant, a type-safe union for C++98, C++11 and later in a single-file header-only library"
+https://github.com/chengchangwu/rtforth,Forth implemented in Rust for realtime application
+https://github.com/Bromeon/Thor,"SFML Extension with various game programming features, like particles, animations, vector operations"
+https://github.com/gabime/spdlog,Fast C++ logging library.
+https://github.com/SFML/SFML-Game-Development-Book,"Full and up-to-date source code of the chapters of the ""SFML Game Development"" book"
+https://github.com/hanappe/world-models,
+https://github.com/alicevision/geogram,Git mirror of the geogram library by INRIA
+https://github.com/apitrace/apitrace,"Tools for tracing OpenGL, Direct3D, and other graphics APIs"
+https://github.com/tunabrain/gpu-fluid,High performance OpenGL fluid solver in C++
+https://github.com/cginternals/globjects,C++ library strictly wrapping OpenGL objects.
+https://github.com/cfenollosa/os-tutorial,How to create an OS from scratch
+https://github.com/Jam3/math-as-code,a cheat-sheet for mathematical notation in code form
+https://github.com/paroj/gltut,Learning Modern 3D Graphics Programming 
+https://github.com/1kingja/graphics,Code for my OpenGL graphics on YouTube
+https://github.com/matus-chochlik/oglplus,"OGLplus is a collection of open-source, cross-platform libraries which implement an object-oriented facade over the OpenGL® (version 3 and higher) and also OpenAL® (version 1.1) and EGL (version 1.4) C-language APIs. It provides wrappers which automate resource and object management and make the use of these libraries in C++ safer and more convenient."
+https://github.com/Overv/OOGL,Object-oriented C++ wrapper for OpenGL.
+https://github.com/anvaka/ngraph.path,Path finding in a graph
+https://github.com/mgerhardy/caveexpress,CaveExpress is a classic 2D platformer with physics-based gameplay and dozens of levels. CavePacker is a Sokoban game.
+https://github.com/aiekick/ImGuiFileDialog,File Dialog for Dear ImGui
+https://github.com/gerryjackson/forth2012-test-suite,Test programs for Forth 2012 and ANS Forth
+https://github.com/JuliaEditorSupport/julia-intellij,:computer: Julia Plugin for IntelliJ IDEA ┗:smiley:┛ ┏:smiley:┓ ┗:smiley:┛
+https://github.com/extrawurst/unecht,Game Engine Framework for the D programming language
+https://github.com/eliasdaler/LuaInPractice2SourceCode,Using Lua with C++ in Practice part 2 source code
+https://github.com/CodingTrain/website,The train engine powering the Coding Train website
+https://github.com/anse1/firmforth,A just-in-time-compiling forth system using libfirm.
+https://github.com/sharkdp/bat,A cat(1) clone with wings.
+https://github.com/msokalski/delabella,2D Delaunay triangulation (dela) - super stable (bella!)
+https://github.com/citybound/citybound,"A work-in-progress, open-source, multi-player city simulation game."
+https://github.com/blackhole89/graphicdepictions,A visual workbench for manipulating graphs using JavaScript.
+https://github.com/thedmd/imgui-node-editor,Node Editor using ImGui
+https://github.com/mikesart/gpuvis,GPU Trace Visualizer
+https://github.com/Rezonality/zep,"Zep - An embeddable editor, with optional support for using vim keystrokes. "
+https://github.com/PyMesh/PyMesh,Geometry Processing Library for Python
+https://github.com/gilbo/cork,3D Boolean / CSG Library
+https://github.com/cnr-isti-vclab/meshlab,The open source mesh processing system
+https://github.com/niieani/bash-oo-framework,Bash Infinity is a modern standard library / framework / boilerplate for Bash
+https://github.com/nushoin/RTree,N-dimensional RTree implementation in C++
+https://github.com/skilldrick/easyforth,Learn Forth!
+https://github.com/mkaz/termgraph,a python command-line tool which draws basic graphs in the terminal
+https://github.com/texus/TGUI,Cross-platform modern c++ GUI
+https://github.com/mapbox/delaunator,An incredibly fast JavaScript library for Delaunay triangulation of 2D points
+https://github.com/bartobri/no-more-secrets,A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+https://github.com/RogerLevy/RamenEngine,A game development framework written in SwiftForth. 
+https://github.com/Qalculate/qalculate-gtk,Qalculate! GTK+ UI
+https://github.com/nbedos/termtosvg,Record terminal sessions as SVG animations
+https://github.com/fungos/cr,cr.h: A Simple C Hot Reload Header-only Library
+https://github.com/Polytonic/Glitter,Dead Simple OpenGL
+https://github.com/BoubacarDiene/mmstreamer,mmstreamer is a media streamer written in C and made for the linux OS.
+https://github.com/dylanaraps/pure-bash-bible,📖 A collection of pure bash alternatives to external processes.
+https://github.com/udacity/self-driving-car-sim,A self-driving car simulator built with Unity
+https://github.com/sebastianstarke/AI4Animation,Bringing Characters to Life with Computer Brains in Unity
+https://github.com/Josefg/Scientific_FORTH,Create a Scientific FORTH Creative Commons release. Volunteers are gladly welcomed!
+https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks,"This is the Curriculum for ""Learn Deep Learning in 6 Weeks"" by Siraj Raval on Youtube "
+https://github.com/danistefanovic/build-your-own-x,🤓 Build your own (insert technology here)
+https://github.com/patriciogonzalezvivo/glslEditor,Simple WebGL Fragment Shader Editor
+https://github.com/stuntrally/stuntrally,The main repository containing Stunt Rally sources and game data. A 3D racing game based on VDrift and OGRE with track editor.
+https://github.com/naev/naev,"Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres."
+https://github.com/JoeyDeVries/Cell,OpenGL C++ Graphics Engine 
+https://github.com/zevv/zForth,"zForth: tiny, embeddable, flexible, compact Forth scripting language for embedded systems"
+https://github.com/andrewtholt/ficl-5.1.0,Ficl 
+https://github.com/dilawar/cec-esteral,Columbia Esterel Compiler - Personal copy
+https://github.com/asdfjkl/jerry,Jerry - Chess Program
+https://github.com/ChrisMoutsos/moosey,Chess engine in C++ with SDL 2.0 GUI
+https://github.com/fogleman/MisterQueen,A chess engine written in C.
+https://github.com/nlguillemot/dof,Depth-of-field implemented with a summed area table
+https://github.com/Immortalin/Building_Forth,How to Build a Forth from Scratch
+https://github.com/sebbekarlsson/NINAGE-Engine,💿 Engine for interactive media & games
+https://github.com/tiny-dnn/tiny-dnn,"header only, dependency-free deep learning framework in C++14"
+https://github.com/JuliaGL/ModernGL.jl,OpenGL 3+ bindings for Julia
+https://github.com/JuliaGL/GLVisualize.jl,Visualization library written in Julia and OpenGL
+https://github.com/armon/libart,Adaptive Radix Trees implemented in C
+https://github.com/abahm/Chess.jl,Chess engine written in Julia
+https://github.com/JuliaComputing/SemiringAlgebra.jl,Semiring Algebra
+https://github.com/QUItCoding/qnanopainter,Library for implementing OpenGL accelerated Qt5 C++ UI components.
+https://github.com/hugoam/kiui,"Auto-layout Ui library, lightweight, skinnable and system agnostic, with an OpenGL backend"
+https://github.com/rastapasta/mapscii,"🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows"
+https://github.com/eXpl0it3r/SmallGameEngine,A small game engine or better said a state machine.
+https://github.com/emuro2/Chess-Game--Java-,MVC Model Chess Game
+https://github.com/Niolak/IluziojChess,
+https://github.com/clopeau/Julia_Introduction,Une introduction à Julia...
+https://github.com/denizyuret/Knet.jl,Koç University deep learning framework.
+https://github.com/fabiensanglard/Prototype,"The source code of ""Prototyp"" by X-Out: #1 Place in ""Horizontal Shooter with BOSS Competition"""
+https://github.com/CAntol/Loose-Quadtree,Loose Quadtree implementation in C
+https://github.com/gerazo/loose_quadtree,Loose Quadtree (Region Tree) simple C++11 implementation
+https://github.com/syao92/MX-CIF-Quad-Trees,MX-CIF Quad Trees
+https://github.com/cneben/QuickQanava,C++14 network/graph visualization library / Qt node editor.
+https://github.com/anvaka/forcelayout.cc,C++ module for 3d force based graph layout
+https://github.com/anvaka/nanlayout,Experimental graph layout with C++ bindings
+https://github.com/mapbox/mapbox-gl-native,"Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL"
+https://github.com/mapbox/webgl-wind,Wind power visualization with WebGL particles
+https://github.com/mikael-s-persson/templight,Templight is a Clang-based tool to profile the time and memory consumption of template instantiations and to perform interactive debugging sessions to gain introspection into the template instantiation process.
+https://github.com/nextgis/nextgis_datastore,:package: NextGIS geodata storage and visualisation support library
+https://github.com/nextgis/desktop_gl_viewer,:cyclone: Qt and  NextGIS datastore based simple geodata viewer. 
+https://github.com/nextgis/qt_gisrenderer,Qt GIS OpenGL renderer
+https://github.com/asciinema/asciinema,Terminal session recorder 📹
+https://github.com/chrispsn/mesh,Visualise data and edit JavaScript code using a spreadsheet interface.
+https://github.com/makhles/traffic_simulator,
+https://github.com/victorfeijo/gtkmm_app,Graphic computing software to model vectors
+https://github.com/ianstormtaylor/makefile-help,An easy way to add a `make help` target to your Makefiles.
+https://github.com/AnthonyCalandra/modern-cpp-features,A cheatsheet of modern C++ language and library features.
+https://github.com/matt-42/iod,Meta programming utilities for C++14. Merged in matt-42/lithium
+https://github.com/RogerLevy/afkit,AllegroForthKit: A game programming framework built on Allegro 5.
+https://github.com/facebookresearch/Detectron,"FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet."
+https://github.com/ashudeep/ConvChess,Convolutional Neural Networks learns to play chess moves
+https://github.com/thomasahle/sunfish,Sunfish: a Python Chess Engine in 111 lines of code
+https://github.com/mcostalba/Stockfish,UCI chess engine
+https://github.com/FlorianRappl/CmdParser,A simple and lightweight command line parser using C++11.
+https://github.com/BobbyAnguelov/NeuralNetwork,Simple Back Propagation Neural Network
+https://github.com/petesh/sigc--2.0-example,Example code for libsigc++
+https://github.com/rafiemilio/Glitcher,"Glitcher, Game-Off Game Jam"
+https://github.com/Yalantis/Horizon,Horizon - Simple visual equaliser for Android
+https://github.com/ssusnic/Machine-Learning-Flappy-Bird,Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm
+https://github.com/google/breadboard,C++ graph based event system
+https://github.com/zelenski/stanford-cpp-library,Stanford C++ library used in CS106B/X courses
+https://github.com/Hossein-Noroozpour/HGEE-Gtkmm,Hulixerian Game Engine Editor (Gtkmm3 version)
+https://github.com/onesuper/bfs_in_parallel,breadth-first search in parallel
+https://github.com/facebook/folly,An open-source C++ library developed and used at Facebook.
+https://github.com/GNOME/gnumeric,Read-only mirror of https://gitlab.gnome.org/GNOME/gnumeric
+https://github.com/STORM-IRIT/Radium-Engine,"Research 3D Engine for rendering, animation and processing "
+https://github.com/MitchBradley/cforth,Mitch Bradley's CForth implementation
+https://github.com/aboria/Aboria,Enables computations over a set of particles in N-dimensional space
+https://github.com/PWhiddy/Nbody-Gravity,A small but powerful nbody gravity simulator with a built-in renderer
+https://github.com/OpenRCT2/OpenRCT2,An open source re-implementation of RollerCoaster Tycoon 2 🎢
+https://github.com/munificent/game-programming-patterns,Source repo for the book
+https://github.com/microsoft/AirSim,"Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research"
+https://github.com/ApolloAuto/apollo,An open autonomous driving platform
+https://github.com/tiluser/Creole-Forth-For-Excel,Forth in a spreadsheet
+https://github.com/flame/blis,BLAS-like Library Instantiation Software Framework
+https://github.com/michael-lehn/ulmBLAS,ulmBLAS
+https://github.com/Reference-LAPACK/lapack-release,LAPACK official release branches
+https://github.com/AlexeyAB/object_threadsafe,We make any object thread-safe and std::shared_mutex 10 times faster to achieve the speed of lock-free algorithms on >85% reads
+https://github.com/conradsnicta/armadillo-code,Armadillo: fast C++ library for linear algebra & scientific computing - http://arma.sourceforge.net
+https://github.com/GlPortal/glPortal,:video_game: Open Source teleportation based first person puzzle-platformer
+https://github.com/doyubkim/fluid-engine-dev,Fluid simulation engine for computer graphics applications
+https://github.com/tinyobjloader/tinyobjloader,Tiny but powerful single file wavefront obj loader
+https://github.com/ocornut/imgui,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+https://github.com/rodrigosetti/frustum-culling,Some old 3D OpenGL experiments from college time
+https://github.com/Lecrapouille/Ecstasy,[Stable version][Not maintained] A simple 3D game: driving a car in a city and its traffic jam.
+https://github.com/lo-th/root,source factory & demo labs
+https://github.com/gametutorials/tutorials,This holds the tutorials for GameTutorials.com
+https://github.com/mattconte/tlsf,Two-Level Segregated Fit memory allocator implementation.
+https://github.com/embeddedmz/helpers-cpp,"C++ Helpers (File system, handle ZIP files...)"
+https://github.com/ctabin/libzippp,C++ wrapper for libzip
+https://github.com/jp-varela/Genetic-Algorithm-PathFinder,https://www.youtube.com/watch?v=2Q9bF8Ofyho
+https://github.com/ridiculousfish/libdivide,Official git repository for libdivide: optimized integer division
+https://github.com/c-koi/libboard,"A vector graphics C++ library to produce EPS, SVG, and FIG files."
+https://github.com/dbartolini/crown,The flexible game engine.
+https://github.com/Plaristote/segvcatch,Automatically exported from code.google.com/p/segvcatch
+https://github.com/qgis/QGIS,"QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)"
+https://github.com/TTimo/GtkRadiant,"The open source, cross platform level editor for idtech games"
+https://github.com/hcchengithub/peforth,A programmable Python debugger using FORTH syntax
+https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus,Change C++ code at runtime
+https://github.com/sebity/plOpenGL,"SWI-Prolog binding for the OpenGL, GLU and GLUT libraries"
+https://github.com/futurice/android-best-practices,"Do's and Don'ts for Android development, by Futurice developers"
+https://github.com/pocoproject/poco,"The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems."
+https://github.com/zim-desktop-wiki/zim-desktop-wiki,Main repository of the zim desktop wiki project
+https://github.com/DaniSagan/Game_13w33,City building game. Demo video: 
+https://github.com/sebastiandev/zipper,C++ wrapper around minizip compression library
+https://github.com/beltoforion/Galaxy-Renderer,A Program for modelling a rotating galaxy based on the density wave theory. 
+https://github.com/nem0/LumixEngine,3D C++ Game Engine - yet another open source game engine
+https://github.com/intel/fastuidraw,
+https://github.com/glumpy/glumpy,"Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization"
+https://github.com/mapbox/mapbox-gl-js,"Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+https://github.com/mattdesl/webgl-lines,some interactive content for a blog post
+https://github.com/tangrams/tangram,WebGL map rendering engine for creative cartography
+https://github.com/CppCon/CppCon2016,Slides and other materials from CppCon 2016
+https://github.com/ForthHub/discussion,Discussion repository for Forth enthusiasts.
+https://github.com/wjakob/nanogui,Minimalistic GUI library for OpenGL
+https://github.com/Reedbeta/reed-util,Vector/matrix math and other basic utilities.
+https://github.com/mosra/magnum,Lightweight and modular C++11 graphics middleware for games and data visualization
+https://github.com/acaudwell/Gource,software version control visualization
+https://github.com/XProger/OpenLara,Classic Tomb Raider open-source engine
+https://github.com/JohnEarnest/Mako,A simple virtual game console
+https://github.com/PureMVC/puremvc-cpp-multicore-framework,PureMVC MultiCore Framework for C++
+https://github.com/xbpeng/DeepTerrainRL,terrain-adaptive locomotion skills using deep reinforcement learning
+https://github.com/cginternals/glbinding,"A C++ binding for the OpenGL API, generated using the gl.xml specification. "
+https://github.com/KDE/rocs,An educational Graph Theory IDE
+https://github.com/8l/fi,simple editor
+https://github.com/adamnew123456/SmallWM,"Xlib window manager (at one time based on tinywm, but SmallWM has long outgrown it)"
+https://github.com/mackstann/tinywm,The tiniest window manager.
+https://github.com/godotengine/godot,Godot Engine – Multi-platform 2D and 3D game engine
+https://github.com/lvella/xevil,Adaptation for modern compilers and 64 bits machines of old XEvil game.
+https://github.com/gephi/gephi,Gephi - The Open Graph Viz Platform
+https://github.com/libMesh/libmesh,libMesh github repository
+https://github.com/philburk/pforth,Portable Forth in C
+https://github.com/bombela/backward-cpp,A beautiful stack trace pretty printer for C++
+https://github.com/frewsxcv/graphosaurus,3D graph viewer powered by WebGL (three.js)
+https://github.com/seanpringle/reforth,Rethinking Forth
+https://github.com/rohitsinha54/Spreadsheet-Calculator,A simple textual spreadsheet calculator in Java
+https://github.com/jagregory/abrash-black-book,Markdown source for Michael Abrash's Graphics Programming Black Book
+https://github.com/EmilyMansfield/citybuilder,Source code for my SFML Citybuilder tutorial
+https://github.com/volkhin/RoadTrafficSimulator,Road traffic simulator and signals optimizer in CoffeeScript & HTML5
+https://github.com/anvaka/VivaGraphJS,Graph drawing library for JavaScript
+https://github.com/ssloy/tinyrenderer,A brief computer graphics / rendering course

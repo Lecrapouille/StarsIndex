@@ -1,5 +1,8 @@
 # Indexing my GitHub's stared projects
 
+See [stars.csv](stars.csv) generated with
+https://github.com/JeffCarpenter/export-stars
+
 <!--- ###################################################################### -->
 
 ## Maths
@@ -184,7 +187,7 @@ Simple 3D scene manager in C# and OpenTK / OpenGL
 https://github.com/lordmauve/wasabi-scenegraph
 
 https://github.com/MicBosi/VisualizationLibrary
-Visualization Library is a C++ middleware for high-performance 2D and 3D graphics applications based on OpenGL 1.x-4.x supporting Windows, Linux and Mac OS X. 
+Visualization Library is a C++ middleware for high-performance 2D and 3D graphics applications based on OpenGL 1.x-4.x supporting Windows, Linux and Mac OS X.
 
 <!--- ###################################################################### -->
 
@@ -314,7 +317,7 @@ https://github.com/nlguillemot/ShaderSet
 GLSL shader live-reloading
 
 https://github.com/knightcrawler25/GLSL-PathTracer
-A GLSL Path Tracer 
+A GLSL Path Tracer
 
 <!--- ###################################################################### -->
 
@@ -491,19 +494,19 @@ Dynamic AABB trees in C++ with support for periodic systems.
 ## GIS
 
 https://github.com/jcaraban/map
-Parallel Map Algebra 
+Parallel Map Algebra
 
 https://github.com/locationtech-labs/geopyspark
-GeoTrellis for PySpark 
+GeoTrellis for PySpark
 
 https://github.com/Fizzadar/opengl-graphing
-2D & 3D graph plots in OpenGL (for University) 
+2D & 3D graph plots in OpenGL (for University)
 
 https://github.com/pszufe/OpenStreetMapX.jl
 OpenStreetMap (*.osm) support for Julia 1.0 and up
 
 https://github.com/anvaka/city-roads
-Visualization of all roads within any city 
+Visualization of all roads within any city
 
 https://github.com/wouterbeek/prolog_geo
 Prolog-based GIS library (wrapper around GEOS)
@@ -554,13 +557,13 @@ https://github.com/rastapasta/mapscii
 MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac and Linux, connect with PuTTY on Windows
 
 https://github.com/CanalTP/libosmpbfreader
-A simple C++ library to read OpenStreetMap binary files 
+A simple C++ library to read OpenStreetMap binary files
 
 https://github.com/jhawthorn/sdlmap
 A SDL + libcurl OpenStreetMap viewer
 
 https://github.com/easbar/fast_paths
-Fast shortest path calculations for Rust 
+Fast shortest path calculations for Rust
 
 ## Graph Theory
 
@@ -656,7 +659,7 @@ https://github.com/penrose/penrose
 Create beautiful diagrams just by typing mathematical notation in plain text.
 
 https://github.com/zokrezyl/asciterm
-ArtSciTerm: terminal for artists, scientists and accidentally for engineers 
+ArtSciTerm: terminal for artists, scientists and accidentally for engineers
 
 <!--- ###################################################################### -->
 
@@ -775,7 +778,7 @@ https://github.com/seed93/vector
 A supercharged std::vector implementation (minus Allocator)
 
 https://github.com/tompollok/paco
-package container (paco) is a template header library for creating mixed containers that can carry any anything from primitives to lambda functions to classes or structs. Just put anything into the container and it never looses its type information. 
+package container (paco) is a template header library for creating mixed containers that can carry any anything from primitives to lambda functions to classes or structs. Just put anything into the container and it never looses its type information.
 
 <!--- ###################################################################### -->
 
@@ -828,7 +831,7 @@ https://github.com/eliasdaler/LuaInPractice2SourceCode
 Using Lua with C++ in Practice part 2 source code
 
 https://github.com/samoli/MacPaint
-MacPaint is the drawing program application which interacts with the user, interprets mouse and keyboard requests, and decides what is to be drawn where. The high-level logic is written in Apple Pascal, packaged in a single file with 5,822 lines. There are an additional 3,583 lines of code in assembler language for the underlying Motorola 68000 … 
+MacPaint is the drawing program application which interacts with the user, interprets mouse and keyboard requests, and decides what is to be drawn where. The high-level logic is written in Apple Pascal, packaged in a single file with 5,822 lines. There are an additional 3,583 lines of code in assembler language for the underlying Motorola 68000 …
 
 https://github.com/amix/photoshop
 Photoshop 1.0 Source Code
@@ -945,25 +948,25 @@ https://github.com/andrewtholt/minforth
 A Minimal Forth
 
 https://github.com/ekoeppen/CoreForth
-Forth for the ARM Cortex-M3 
+Forth for the ARM Cortex-M3
 
 https://github.com/urlysses/1991
-A server-side web framework written in Forth. 
+A server-side web framework written in Forth.
 
 https://github.com/uho/forth-notebooks
-Forth Literate Programming with IPython notebook 
+Forth Literate Programming with IPython notebook
 
 https://github.com/bradn123/literateforth
 Literate Programming in Forth
 
 https://github.com/wkoszek/cweb
-The CWEB System of Structured Documentation 
+The CWEB System of Structured Documentation
 
 https://github.com/ams-hackers/gbforth
-A Forth-based Game Boy development kit 
+A Forth-based Game Boy development kit
 
 https://github.com/codr7/forthy2
-a Forth (for you) too 
+a Forth (for you) too
 
 https://github.com/HackerFoo/poprc
 A Compiler for the Popr Language
@@ -973,10 +976,10 @@ A Compiler for the Popr Language
 ### Language theory
 
 https://github.com/wren-lang/wren
-The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language. 
+The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 
 https://github.com/qtnc/swan
-Swan, small scripting language embeddable in C++ applications 
+Swan, small scripting language embeddable in C++ applications
 
 <!--- ###################################################################### -->
 
@@ -992,17 +995,17 @@ https://github.com/manuel-serrano/hop
 Multitier JavaScript
 
 https://github.com/tgvaughan/scheme.forth.jl
-Scheme in FORTH in Julia. 
+Scheme in FORTH in Julia.
 
 https://github.com/tgvaughan/forth.jl
-Forth system in Julia 
+Forth system in Julia
 
 <!--- ###################################################################### -->
 
 ### Julia
 
 https://github.com/JuliaTeX/PGFPlots.jl
-This library uses the LaTeX package pgfplots to produce plots. 
+This library uses the LaTeX package pgfplots to produce plots.
 
 https://github.com/fonsp/Pluto.jl
 Simple reactive notebooks for Julia
@@ -1071,16 +1074,16 @@ Q3VM - Embeddable bytecode virtual machine/interpreter for C-language input
 ### City Builders
 
 https://github.com/widelands/widelands
-Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. 
+Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
 
 https://github.com/OpenTTD/OpenTTD
-OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe 
+OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 
 https://github.com/Miragecoder/Urbanization
-A Micropolis (Simcity classic) inspired city building game written in C# 
+A Micropolis (Simcity classic) inspired city building game written in C#
 
 https://github.com/maajor/OSMTrafficSim
-TrafficSim using Unity ECS 2019.3 
+TrafficSim using Unity ECS 2019.3
 
 http://www.andrewwillmott.com/talks/inside-glassbox
 https://github.com/federicodangelo/MultiAgentSimulation
@@ -1280,7 +1283,7 @@ FAIR's research platform for object detection research, implementing popular alg
 ## Network
 
 https://github.com/TinkoffCreditSystems/Ogam3
-Data transfer protocol based on a lightweight implementation of Scheme programming language written on C# for .NET enterprise development. 
+Data transfer protocol based on a lightweight implementation of Scheme programming language written on C# for .NET enterprise development.
 
 <!--- ###################################################################### -->
 
